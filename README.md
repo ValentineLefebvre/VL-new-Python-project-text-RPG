@@ -2,7 +2,6 @@
 
 
 # Différences notables de cette nouvelle version :
-Version améliorée du premier RPG (également disponible sur ce GitHub)
 
   - Différences techniques :
     * Utilisation des dictionnaires, pour les objets et les attaques notemment
