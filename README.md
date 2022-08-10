@@ -15,3 +15,5 @@
     * Possibilité de visualiser l'inventaire et les statistiques du joueur en cours de partie
   - Différences secondaires :
     * Changements textuels : noms d'attaques notemment
+
+Jeu d'origine : https://github.com/ValentineLefebvre/VL-Python-project-text-RPG
