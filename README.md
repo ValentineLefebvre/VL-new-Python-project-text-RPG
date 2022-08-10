@@ -21,7 +21,7 @@ FR :
 ***Différences notables de cette nouvelle version :***
 
   # Différences techniques :
-    * Utilisation des dictionnaires, pour les objects et les attaques notemment
+    * Utilisation des dictionnaires, pour les objets et les attaques notemment
     * Utilisation des classes pour le personnage principal et les ennemis
   # Différences de gameplay :
     * Choix d'un parent divin pour le héros, influençant ses statistiques et attaques

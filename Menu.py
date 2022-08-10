@@ -12,7 +12,7 @@ def credit(token) :
 		print("Différences notables de cette nouvelle version :\n")
 		time.sleep(2)
 		print("  # Différences techniques :")
-		print("    * Utilisation des dictionnaires, pour les objects et les attaques notemment")
+		print("    * Utilisation des dictionnaires, pour les objets et les attaques notemment")
 		time.sleep(2)
 		print("    * Utilisation des classes pour le personnage principal et les ennemis")
 		time.sleep(2)
