@@ -1,24 +1,7 @@
 # VL-new-Python-project-text-RPG
 
-# EN: Notables differences in this new version:
-Improved version of the first RPG (also available on this GitHub)
 
-  - Technical differences:
-    * Use of dictionnaries, mainly for objects and attacks
-    * Use of classes for the main character and the enemies
-  - Gameplay differences:
-    * Choice of a godly parent for the hero, which influences their statistics and attacks
-    * Defense taken into account in the stats directly
-    * 'Defend' action removed from the fight
-    * Specific effects added to some attacks
-    * Better balancing of the hero's and enemies' attacks
-    * Showing inventory and stats during the game now possible
-  - Secondary differences:
-    * Textual changes: mainly attack names
-
-
-
-# FR : Différences notables de cette nouvelle version :
+# Différences notables de cette nouvelle version :
 Version améliorée du premier RPG (également disponible sur ce GitHub)
 
   - Différences techniques :
