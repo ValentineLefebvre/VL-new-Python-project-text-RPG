@@ -1,6 +1,6 @@
 # VL-new-Python-project-text-RPG
 
-# EN: Notables differences in this new version :
+# EN: Notables differences in this new version:
 Improved version of the first RPG (also available on this GitHub)
 
   - Technical differences:
