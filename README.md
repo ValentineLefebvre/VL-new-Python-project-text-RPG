@@ -2,6 +2,7 @@
 
 Il s'agit d'un RPG textuel sans aucune interface graphique.
 Pour y jouer, il suffit de cloner le repo, ouvrir RPG.py et l'exécuter dans la console.
+Vous pouvez aussi, après avoir cloné le repo, naviguer vers le dossier et entrer "python .\RPG.py" sur windows ou "python3 .\RPG.py" sur Mac & Linux
 
 # Différences notables de cette nouvelle version :
 
